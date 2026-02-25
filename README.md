@@ -8,6 +8,9 @@ It is created for learning and practice, focusing on clear logic and structured 
 ⸻
 
 🚀 Languages Used
+<br>
 	•	🔹 C
+	<br>
 	•	🔹 C++
+	<br>
 	•	🔹 Java
