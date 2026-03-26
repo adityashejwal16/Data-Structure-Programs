@@ -1,6 +1,6 @@
 📚 Data Structure Programs (C | C++ | Java)
 
-This repository contains Data Structure implementations using C, C++ and Java.
+This repository contains Data Structure implementations using C, C++, Python and Java.
 It is created for learning and practice, focusing on clear logic and structured code.
 
 👤 Author: Aditya Shejwal
